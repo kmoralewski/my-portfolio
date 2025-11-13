@@ -1,9 +1,9 @@
 # my-portfolio
-Repository of my projects from my BS in Software Development and individual work
+Repository of my academic projects from my BS in Software Development and individual work
 
 # DeVry University Projects
 
-Contains a collection of academic projects completed during my BS in Software Development at DeVry University.
+This repository contains a collection of academic projects completed during my BS in Software Development at DeVry University.
 
 ## Files
 - major-projects - Projects built with multiple languages
