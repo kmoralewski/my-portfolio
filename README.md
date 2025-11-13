@@ -6,7 +6,7 @@ Repository of my projects from my BS in Software Development and individual work
 Contains a collection of academic projects completed during my BS in Software Development at DeVry University.
 
 ## Files
--**/major-project** - Projects built with multiple languages.
+- major-projects - Projects built with multiple languages
 	- Car Sale Inventory Tracker:
 		- C++ checkout system and inventory tracker for a car dealership
 		- Allows the user to choose their vehicle and available upgrades
@@ -25,7 +25,7 @@ Contains a collection of academic projects completed during my BS in Software De
 	- Perfect Pet Finder:
 		- Group project creating documentation only for a pet finder app
 		- Includes all software requirements and diagrams
--**/mini-projects** - Fundamental practice in multiple languages.
+- mini-projects - Fundamental practice in multiple languages.
 	-Includes projects in C#, C++, Java, and a machine learning experiment
 
 # Independent Projects
