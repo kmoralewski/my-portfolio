@@ -1,0 +1,3 @@
+Rich Danver#345 Park Ave Boston, MA 02115#Gravel#20.0#20.0#800.0
+Aaron Smith#123 Main St Brooklyn, NY 11221#Gravel#25.0#30.0#1500.0
+Sara Carson#567 Brick Rd Los Angeles, CA 90049#Grass#10.0#10.0#500.0
